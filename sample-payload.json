@@ -1,0 +1,8 @@
+{
+  "msdyn_name": "Electricity Usage – May 2024",
+  "msdyn_scope": 100000001,
+  "msdyn_reportingdate": "2024-05-31T00:00:00Z",
+  "msdyn_co2e": 1250,
+  "msdyn_co2eunit@odata.bind": "/msdyn_units(01234567-89ab-cdef-0123-456789abcdef)",
+  "msdyn_facilityid@odata.bind": "/msdyn_facilities(89abcdef-0123-4567-89ab-cdef01234567)"
+}
